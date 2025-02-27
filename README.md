@@ -56,7 +56,7 @@ Welcome to the Mad Libs Generator! This is a fun and interactive application bui
 
 - Stories:
     - `madlib1()`: The Photographer
-    - `madlib2(): The Butterfly
+    - `madlib2()`: The Butterfly
     - `madlib3()`: Apple and Apple
 
 - Buttons:
